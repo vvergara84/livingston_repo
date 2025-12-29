@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: lib/log4j-1.2.17.jar lib/ojdbc8-12.2.0.1.jar lib/ucp-12.2.0.
+ 1.jar lib/oraclepki-12.2.0.1.jar lib/osdt_cert-12.2.0.1.jar lib/osdt_co
+ re-12.2.0.1.jar lib/simplefan-12.2.0.1.jar lib/ons-12.2.0.1.jar
+Implementation-Title: EntrySummaryVersioner
+Implementation-Version: 1.0
+Main-Class: livingston.EntrySummaryVersionerMain
+Created-By: Maven Integration for Eclipse
+
